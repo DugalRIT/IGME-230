@@ -1,4 +1,4 @@
-# Steam Invaders
+# Deep Space D6
 
 ## High Concept
 Deed Space D6 is a solitaire dice game that simulates the crew of a spaceship dealing with the dangers of space. 
