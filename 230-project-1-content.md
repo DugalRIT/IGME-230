@@ -38,14 +38,11 @@ TBD
 
 ## Screenshots
 ![GameBoard](https://cf.geekdo-images.com/images/pic3015064_md.jpg)
-
-## Other
-TBD
+![BoxArt](https://cf.geekdo-images.com/images/pic2937443_md.png)
 
 ## About the developer
-
+Print and play game created by Tony Go. Images used and game design are the sole property of Tony Go. 
 
 ## References
-- https://en.wikipedia.org/wiki/Naval_tactics_in_the_Age_of_Steam
-- [Space Invaders Project](http://www.space-invaders.com/home/)
+-https://boardgamegeek.com/boardgame/183571/deep-space-d-6
 - ...
