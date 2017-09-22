@@ -44,7 +44,7 @@ All controls will be handled with the mouse. There will be a button to roll die 
 ## Screenshots
 ![GameBoard](https://cf.geekdo-images.com/images/pic3015064_md.jpg)
 ![BoxArt](https://cf.geekdo-images.com/images/pic2937443_md.png)
-
+Images provide an idea of the basic layout and art design. 
 ## About the developer
 Print and play game created by Tau Leader games. Images used and game design are the sole property of Tony Go and Tim McBurine. 
 
